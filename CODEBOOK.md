@@ -50,7 +50,7 @@ The following files are available for the train and test data. Their description
 
 ## How ```run_analysis.R``` implements the above steps:
 
-* Require ```dplyr```.
+* Require ```plyr```.
 * Load both test and train data
 * Merge the data sets
 * Load the features and activity labels.
